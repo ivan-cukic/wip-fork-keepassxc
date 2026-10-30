@@ -26,7 +26,8 @@
 #include "keeshare/KeeShare.h"
 #include "keys/PasswordKey.h"
 
-#include <../minizip/zip.h>
+#include <zip.h>
+
 #include <QBuffer>
 #include <botan/pubkey.h>
 

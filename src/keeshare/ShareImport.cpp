@@ -20,7 +20,8 @@
 #include "keeshare/KeeShare.h"
 #include "keys/PasswordKey.h"
 
-#include <../minizip/unzip.h>
+#include <unzip.h>
+
 #include <QBuffer>
 
 namespace
